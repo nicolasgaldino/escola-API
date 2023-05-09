@@ -9,7 +9,7 @@
 1. Clone o repositório:
 
 ```
-git clone https://github.com/nicolasgaldino/
+git clone https://github.com/nicolasgaldino/escola-API.git
 ```
 
 2. Crie um ambiente virtual:
